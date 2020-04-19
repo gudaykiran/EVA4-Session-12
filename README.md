@@ -3,7 +3,7 @@
 Assignment A:
 1.	Download this TINY IMAGENET (http://cs231n.stanford.edu/tiny-imagenet-200.zip)dataset. 
 2.	Train ResNet18 on this dataset (70/30 split) for 50 Epochs. Target 50%+ Validation Accuracy. 
-3.	Submit Results. Of course, you are using your own package for everything. You can look at this (Links to an external site.) for reference.
+3.	Submit Results. Of course, you are using your own package for everything.  
 
 
 
